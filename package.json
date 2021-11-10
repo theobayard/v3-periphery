@@ -20,7 +20,7 @@
     "contracts/base",
     "contracts/interfaces",
     "contracts/libraries",
-    "constracts/test",
+    "contracts/test",
     "test",
     "artifacts/contracts/**/*.json",
     "!artifacts/contracts/**/*.dbg.json",
