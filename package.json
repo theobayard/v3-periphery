@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/v3-periphery",
+  "name": "@uniswap/v3-periphery-tests",
   "description": "🎚 Peripheral smart contracts for interacting with Uniswap V3",
   "license": "GPL-2.0-or-later",
   "publishConfig": {
@@ -20,6 +20,8 @@
     "contracts/base",
     "contracts/interfaces",
     "contracts/libraries",
+    "constracts/test",
+    "test",
     "artifacts/contracts/**/*.json",
     "!artifacts/contracts/**/*.dbg.json",
     "!artifacts/contracts/test/**/*",
